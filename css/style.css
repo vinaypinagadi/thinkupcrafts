@@ -3939,7 +3939,8 @@ html:not(.mobile) .wow-p {
 }
 
 .nav-logo-wrap .logo img {
-    max-height: 100%;
+    height: 120px;
+    width: 150px;
 }
 
 .nav-logo-wrap .logo:before,
